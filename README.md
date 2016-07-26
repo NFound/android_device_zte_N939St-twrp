@@ -14,7 +14,7 @@ Storage | 16 GB
 MicroSD | Up to 64 GB (Hybrid)
 Battery | 3000 mAh (non-removable)
 Dimensions | 139.3 x 69.6 x 8.5 mm
-Display | 1080 x 1920 pixels, 5.0" IPS
+Display | 1080 x 1920 pixels, 5.5" IPS
 Rear Camera  | 13.0 MP, LED flash
 Front Camera | 5.0 MP
 Release Date | May 2015
