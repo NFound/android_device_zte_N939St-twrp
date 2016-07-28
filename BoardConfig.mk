@@ -71,6 +71,7 @@ BOARD_FLASH_BLOCK_SIZE := 131072
 #Recovery
 TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/recovery/root/etc/twrp.fstab
 TW_THEME := portrait_hdpi
+TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
 TW_INCLUDE_CRYPTO := true
 TW_MAX_BRIGHTNESS := 255
 TW_BRIGHTNESS_PATH := /sys/class/leds/lcd-backlight/brightness
