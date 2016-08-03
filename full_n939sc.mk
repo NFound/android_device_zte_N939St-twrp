@@ -34,8 +34,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/recovery/dt.img:dt.img
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := n939sc
-PRODUCT_NAME := zx55q05
+PRODUCT_DEVICE := N939sc
+PRODUCT_NAME := zx55q05_64
 PRODUCT_BRAND := ZTE
 PRODUCT_MODEL := Blade X9
 PRODUCT_MANUFACTURER := ZTE
