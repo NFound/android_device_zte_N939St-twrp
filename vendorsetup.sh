@@ -1,1 +1,1 @@
-add_lunch_combo omni_n939sc-userdebug
+add_lunch_combo omni_N939St-userdebug
