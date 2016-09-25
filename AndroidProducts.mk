@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_n939sc.mk \
-	$(LOCAL_DIR)/full_n939sc.mk
+	$(LOCAL_DIR)/omni_N939St.mk \
+	$(LOCAL_DIR)/full_N939St.mk
