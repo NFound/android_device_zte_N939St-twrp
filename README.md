@@ -1,6 +1,6 @@
 TeamWin Recovery Project by NFound
 
-Device configuration for ZTE Blade X9 (n939sc)
+Device configuration for ZTE Blade X9 (N939St)
 =====================================
 
 Basic   | Spec Sheet
