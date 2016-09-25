@@ -16,7 +16,7 @@
 # Product-specific compile-time definitions.
 #
 
-LOCAL_PATH := device/zte/n939sc
+LOCAL_PATH := device/zte/N939St
 
 TARGET_BOARD_VENDOR := zte
 
