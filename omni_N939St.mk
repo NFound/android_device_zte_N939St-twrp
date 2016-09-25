@@ -15,9 +15,9 @@
 ## Specify phone tech before including full_phone
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
-$(call inherit-product, device/zte/n939sc/full_n939sc.mk)
+$(call inherit-product, device/zte/N939St/full_N939St.mk)
 
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-PRODUCT_NAME := omni_n939sc
+PRODUCT_NAME := omni_N939St
